@@ -50,7 +50,3 @@ The application may ask for permission to access your location.
 - Edit and delete workouts.
 - Sort workouts by distance and duration.
 - Add the ability to clear all workouts.
-
-## Author
-
-GitHub: [@Bunyaka](https://github.com/Bunyaka)
